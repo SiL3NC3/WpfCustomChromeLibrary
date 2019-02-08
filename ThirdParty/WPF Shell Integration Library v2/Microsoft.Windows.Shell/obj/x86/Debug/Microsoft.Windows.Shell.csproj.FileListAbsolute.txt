@@ -1,0 +1,6 @@
+C:\temp\WpfCustomChromeLib\WpfCustomChromeLib\ThirdParty\WPF Shell Integration Library v2\Microsoft.Windows.Shell\bin\x86\Debug\Microsoft.Windows.Shell.dll.config
+C:\temp\WpfCustomChromeLib\WpfCustomChromeLib\ThirdParty\WPF Shell Integration Library v2\Microsoft.Windows.Shell\bin\x86\Debug\Microsoft.Windows.Shell.dll
+C:\temp\WpfCustomChromeLib\WpfCustomChromeLib\ThirdParty\WPF Shell Integration Library v2\Microsoft.Windows.Shell\bin\x86\Debug\Microsoft.Windows.Shell.pdb
+C:\temp\WpfCustomChromeLib\WpfCustomChromeLib\ThirdParty\WPF Shell Integration Library v2\Microsoft.Windows.Shell\obj\x86\Debug\Microsoft.Windows.Shell.csprojResolveAssemblyReference.cache
+C:\temp\WpfCustomChromeLib\WpfCustomChromeLib\ThirdParty\WPF Shell Integration Library v2\Microsoft.Windows.Shell\obj\x86\Debug\Microsoft.Windows.Shell.dll
+C:\temp\WpfCustomChromeLib\WpfCustomChromeLib\ThirdParty\WPF Shell Integration Library v2\Microsoft.Windows.Shell\obj\x86\Debug\Microsoft.Windows.Shell.pdb
